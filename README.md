@@ -38,6 +38,7 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 - Created a web page for my Dad's Business.
 - Technologies used: HTML, CSS, Bootstrap.
 - **Link to Demo App:** https://sweta7.github.io/arya-financial-services
+  
  
 ## GitHub Trophy 
 
@@ -46,17 +47,11 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 </p>
 
 
-### GitHub Stats
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sweta7&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
-
-
-</details>
-
-
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sweta7&show_icons=true&theme=radical)
+
+[<p align="center"><img src="https://streak-stats.demolab.com?user=Sweta7&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Sweta's GitHub streak stats" /></p>](url)
 
 ## Thanks for visiting my profile!
 
