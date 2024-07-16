@@ -59,6 +59,8 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 
 ## Thanks for visiting my profile!
 
+![](https://komarev.com/ghpvc/?username=Sweta7)
+
 
 ---
 
