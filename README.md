@@ -80,6 +80,4 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 
 ---
 
-⭐️ From Sweta (https://github.com/Sweta7)
-
 
