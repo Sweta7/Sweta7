@@ -51,14 +51,10 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sweta7&show_icons=true&theme=radical" alt="Sweta's GitHub streak stats" /></p>
 
-
-
 <p align="center"><img src="https://streak-stats.demolab.com?user=Sweta7&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Sweta's GitHub streak stats" /></p>
 
-<div align="center">
-  <p><img src="https://streak-stats.demolab.com?user=Sweta7&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="GitHub streak stats" /></p>
-  <p>Showing contributions from June till today</p>
-</div>
+
+
 
 
 ## Thanks for visiting my profile!
