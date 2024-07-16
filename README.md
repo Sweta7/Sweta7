@@ -38,35 +38,18 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 - Created a web page for my Dad's Business.
 - Technologies used: HTML, CSS, Bootstrap.
 - **Link to Demo App:** https://sweta7.github.io/arya-financial-services
-
-
-## Education
-
-- **[Your Degree]** - [Your University]
-  - Year of graduation: [Year]
-  - Relevant coursework: [Coursework]
  
-<details><summary><b>My GitHub Trophy Collection</b></summary>
+## GitHub Trophy 
 
 <p align="center">
-<img alig src="https://github-profile-trophy.vercel.app/?username=Sweta7=8&column=4&title=MultipleLang,Organizations,Repositories,Commits,Followers,PullRequest,Stars,Issues&theme=darkhub&no-frame=true" alt="github trophies" />
+<img alig src="https://github-profile-trophy.vercel.app/?username=Sweta7&theme=darkhub&no-frame=true" alt="github trophies" />
 </p>
 
-</details>
 
-</details>
-
-<!-- <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sweta7&exclude_repo=witcher-api&langs_count=8&layout=compact&hide=makefile&theme=react" alt="Most used languages" /></p> -->
-
-<details><summary><b>My GitHub Stats and Streak</b></summary>
+### GitHub Stats
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Sweta7&show_icons=true&count_private=true&hide=issues,contribs&theme=react" alt="GitHub stats" /></p>
 
-<p align="center"><img src="https://streak-stats.demolab.com?user=Sweta7&theme=react&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&currStreakNum=DD0000" alt="Adrian's GitHub streak stats" /></p>
-
-<!-- <p align="center"><img src="https://github-readme-stats-flax-seven-13.vercel.app?user=Sweta7&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
-
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Sweta7&theme=react&border_radius=5&fire=FF0000&ring=FF0000&currStreakNum=FF0000" alt="Adrian's GitHub streak stats" /></p> -->
 
 </details>
 
