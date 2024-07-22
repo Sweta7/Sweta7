@@ -26,7 +26,7 @@ I am a passionate Software Engineer based in New Zealand, specializing in full-s
 ### [React 18 Job Project](https://github.com/Sweta7/react-job-2024)
 - Working on a React project by following the Traversy Media YouTube tutorial and doing that in typescript.
 - Technologies used: React, Bootstrap, JSON server.
-- **Link to Demo App:** Coming soon...
+- **Link to Demo App:** https://clinquant-truffle-415ab7.netlify.app
 
 ### [News App](https://github.com/Sweta7/newsApp)
 - Created a news web application that fetches data from News API and displays it on the application based on different news categories. 
